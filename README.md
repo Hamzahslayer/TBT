@@ -1,5 +1,5 @@
 # TBT
-Script untuk menambahkan tombol baru seperti home alt dan sebagainya
+Script untuk menambahkan tombol baru seperti home alt dan sebagainya di apk termux
 
 Cara install
 
