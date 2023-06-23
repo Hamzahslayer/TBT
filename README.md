@@ -11,7 +11,7 @@ Cara install
 
 4 pkg install git
 
-5 git clone https://github.com/Hamzahslayer/TBT/
+5 git clone https://github.com/hamzahyahya/TBT
 
 6 cd TBT
 
